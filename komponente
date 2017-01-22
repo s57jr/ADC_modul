@@ -3,11 +3,7 @@ ADC modul komponente:
 
 Transformator na ADC vhod:
 
-	ADT4-6WT (http://194.75.38.69/pdfs/ADT4-6WT.pdf)
-
-Tuljava vzporedna ADC vhodu:
-
-	COILCRAFT  1206CS-911XJLB (farnell koda: 2286959 )
+	ADT1-1WT (http://194.75.38.69/pdfs/ADT1-1WT.pdf)	
 
 CLK oscilator:
 
@@ -24,3 +20,11 @@ Napetostni regulatorji:
 Decoupling tuljava pred regulatorjem:
 
 	SDE0805A-101K (farnell koda: 2454986)
+
+SPI buffer:
+
+	SN74LVC2G07 (farnell koda: 1470774)
+
+Tuljava VCM filter:
+
+	B82498B ( RS-stocknr.: 801-9673 )
