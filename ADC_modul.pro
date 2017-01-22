@@ -1,4 +1,4 @@
-update=zo 15 jan 2017 15:12:31 CET
+update=zo 22 jan 2017 18:44:56 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=schottkey_clamp
 LibName32=SI570_SI571_Oscillator_RevA_11Jun2012
 LibName33=CDCLVP1102
 LibName34=BD00HC0WEFJ
+LibName35=SN74LVC2G07
